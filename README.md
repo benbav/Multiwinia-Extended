@@ -13,7 +13,8 @@ If you're using Steam it will probably be located at `C:\Program Files (x86)\Ste
 ![](https://cdn.discordapp.com/attachments/150682863543517184/731550339974561802/unknown.png)
 ### Mac
 Copy the entire `data` directory to the location shown in the image
-![](https://cdn.discordapp.com/attachments/150682863543517184/353434472416280587/Screen_Shot_2017-09-02_at_5.02.01_PM.png)
+paste this into Terminal to get to the correct folder. Then delete the existing "data" folder and replace with the new downloaded "data" folder:
+```open ~/Library/Application\ Support/Steam/steamapps/common/Multiwinia/Multiwinia.app/Contents/Resources```
 ### Linux
 ???
 ## Credits
